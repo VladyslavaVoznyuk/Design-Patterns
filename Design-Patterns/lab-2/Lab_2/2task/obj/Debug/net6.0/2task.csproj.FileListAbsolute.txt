@@ -1,0 +1,14 @@
+C:\Users\Vlada\Design-Patterns\lab-2\Lab_2\2task\bin\Debug\net6.0\2task.exe
+C:\Users\Vlada\Design-Patterns\lab-2\Lab_2\2task\bin\Debug\net6.0\2task.deps.json
+C:\Users\Vlada\Design-Patterns\lab-2\Lab_2\2task\bin\Debug\net6.0\2task.runtimeconfig.json
+C:\Users\Vlada\Design-Patterns\lab-2\Lab_2\2task\bin\Debug\net6.0\2task.dll
+C:\Users\Vlada\Design-Patterns\lab-2\Lab_2\2task\bin\Debug\net6.0\2task.pdb
+C:\Users\Vlada\Design-Patterns\lab-2\Lab_2\2task\obj\Debug\net6.0\2task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlada\Design-Patterns\lab-2\Lab_2\2task\obj\Debug\net6.0\2task.AssemblyInfoInputs.cache
+C:\Users\Vlada\Design-Patterns\lab-2\Lab_2\2task\obj\Debug\net6.0\2task.AssemblyInfo.cs
+C:\Users\Vlada\Design-Patterns\lab-2\Lab_2\2task\obj\Debug\net6.0\2task.csproj.CoreCompileInputs.cache
+C:\Users\Vlada\Design-Patterns\lab-2\Lab_2\2task\obj\Debug\net6.0\2task.dll
+C:\Users\Vlada\Design-Patterns\lab-2\Lab_2\2task\obj\Debug\net6.0\refint\2task.dll
+C:\Users\Vlada\Design-Patterns\lab-2\Lab_2\2task\obj\Debug\net6.0\2task.pdb
+C:\Users\Vlada\Design-Patterns\lab-2\Lab_2\2task\obj\Debug\net6.0\2task.genruntimeconfig.cache
+C:\Users\Vlada\Design-Patterns\lab-2\Lab_2\2task\obj\Debug\net6.0\ref\2task.dll
