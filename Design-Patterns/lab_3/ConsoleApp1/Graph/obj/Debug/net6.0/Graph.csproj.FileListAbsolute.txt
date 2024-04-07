@@ -1,0 +1,14 @@
+C:\Users\Vlada\Design-Patterns\lab_3\ConsoleApp1\Graph\bin\Debug\net6.0\Graph.exe
+C:\Users\Vlada\Design-Patterns\lab_3\ConsoleApp1\Graph\bin\Debug\net6.0\Graph.deps.json
+C:\Users\Vlada\Design-Patterns\lab_3\ConsoleApp1\Graph\bin\Debug\net6.0\Graph.runtimeconfig.json
+C:\Users\Vlada\Design-Patterns\lab_3\ConsoleApp1\Graph\bin\Debug\net6.0\Graph.dll
+C:\Users\Vlada\Design-Patterns\lab_3\ConsoleApp1\Graph\bin\Debug\net6.0\Graph.pdb
+C:\Users\Vlada\Design-Patterns\lab_3\ConsoleApp1\Graph\obj\Debug\net6.0\Graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlada\Design-Patterns\lab_3\ConsoleApp1\Graph\obj\Debug\net6.0\Graph.AssemblyInfoInputs.cache
+C:\Users\Vlada\Design-Patterns\lab_3\ConsoleApp1\Graph\obj\Debug\net6.0\Graph.AssemblyInfo.cs
+C:\Users\Vlada\Design-Patterns\lab_3\ConsoleApp1\Graph\obj\Debug\net6.0\Graph.csproj.CoreCompileInputs.cache
+C:\Users\Vlada\Design-Patterns\lab_3\ConsoleApp1\Graph\obj\Debug\net6.0\Graph.dll
+C:\Users\Vlada\Design-Patterns\lab_3\ConsoleApp1\Graph\obj\Debug\net6.0\refint\Graph.dll
+C:\Users\Vlada\Design-Patterns\lab_3\ConsoleApp1\Graph\obj\Debug\net6.0\Graph.pdb
+C:\Users\Vlada\Design-Patterns\lab_3\ConsoleApp1\Graph\obj\Debug\net6.0\Graph.genruntimeconfig.cache
+C:\Users\Vlada\Design-Patterns\lab_3\ConsoleApp1\Graph\obj\Debug\net6.0\ref\Graph.dll

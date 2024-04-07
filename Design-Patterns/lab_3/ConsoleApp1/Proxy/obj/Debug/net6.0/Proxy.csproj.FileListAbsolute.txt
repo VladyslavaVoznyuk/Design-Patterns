@@ -1,0 +1,14 @@
+C:\Users\Vlada\Design-Patterns\lab_3\ConsoleApp1\Proxy\bin\Debug\net6.0\Proxy.exe
+C:\Users\Vlada\Design-Patterns\lab_3\ConsoleApp1\Proxy\bin\Debug\net6.0\Proxy.deps.json
+C:\Users\Vlada\Design-Patterns\lab_3\ConsoleApp1\Proxy\bin\Debug\net6.0\Proxy.runtimeconfig.json
+C:\Users\Vlada\Design-Patterns\lab_3\ConsoleApp1\Proxy\bin\Debug\net6.0\Proxy.dll
+C:\Users\Vlada\Design-Patterns\lab_3\ConsoleApp1\Proxy\bin\Debug\net6.0\Proxy.pdb
+C:\Users\Vlada\Design-Patterns\lab_3\ConsoleApp1\Proxy\obj\Debug\net6.0\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlada\Design-Patterns\lab_3\ConsoleApp1\Proxy\obj\Debug\net6.0\Proxy.AssemblyInfoInputs.cache
+C:\Users\Vlada\Design-Patterns\lab_3\ConsoleApp1\Proxy\obj\Debug\net6.0\Proxy.AssemblyInfo.cs
+C:\Users\Vlada\Design-Patterns\lab_3\ConsoleApp1\Proxy\obj\Debug\net6.0\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Vlada\Design-Patterns\lab_3\ConsoleApp1\Proxy\obj\Debug\net6.0\Proxy.dll
+C:\Users\Vlada\Design-Patterns\lab_3\ConsoleApp1\Proxy\obj\Debug\net6.0\refint\Proxy.dll
+C:\Users\Vlada\Design-Patterns\lab_3\ConsoleApp1\Proxy\obj\Debug\net6.0\Proxy.pdb
+C:\Users\Vlada\Design-Patterns\lab_3\ConsoleApp1\Proxy\obj\Debug\net6.0\Proxy.genruntimeconfig.cache
+C:\Users\Vlada\Design-Patterns\lab_3\ConsoleApp1\Proxy\obj\Debug\net6.0\ref\Proxy.dll
