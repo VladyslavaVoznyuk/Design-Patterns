@@ -1,0 +1,14 @@
+C:\Users\Vlada\Design-Patterns\lab-2\Lab_2\3task\bin\Debug\net6.0\3task.exe
+C:\Users\Vlada\Design-Patterns\lab-2\Lab_2\3task\bin\Debug\net6.0\3task.deps.json
+C:\Users\Vlada\Design-Patterns\lab-2\Lab_2\3task\bin\Debug\net6.0\3task.runtimeconfig.json
+C:\Users\Vlada\Design-Patterns\lab-2\Lab_2\3task\bin\Debug\net6.0\3task.dll
+C:\Users\Vlada\Design-Patterns\lab-2\Lab_2\3task\bin\Debug\net6.0\3task.pdb
+C:\Users\Vlada\Design-Patterns\lab-2\Lab_2\3task\obj\Debug\net6.0\3task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlada\Design-Patterns\lab-2\Lab_2\3task\obj\Debug\net6.0\3task.AssemblyInfoInputs.cache
+C:\Users\Vlada\Design-Patterns\lab-2\Lab_2\3task\obj\Debug\net6.0\3task.AssemblyInfo.cs
+C:\Users\Vlada\Design-Patterns\lab-2\Lab_2\3task\obj\Debug\net6.0\3task.csproj.CoreCompileInputs.cache
+C:\Users\Vlada\Design-Patterns\lab-2\Lab_2\3task\obj\Debug\net6.0\3task.dll
+C:\Users\Vlada\Design-Patterns\lab-2\Lab_2\3task\obj\Debug\net6.0\refint\3task.dll
+C:\Users\Vlada\Design-Patterns\lab-2\Lab_2\3task\obj\Debug\net6.0\3task.pdb
+C:\Users\Vlada\Design-Patterns\lab-2\Lab_2\3task\obj\Debug\net6.0\3task.genruntimeconfig.cache
+C:\Users\Vlada\Design-Patterns\lab-2\Lab_2\3task\obj\Debug\net6.0\ref\3task.dll

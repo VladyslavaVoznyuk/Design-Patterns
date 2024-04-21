@@ -1,0 +1,3 @@
+Test log.
+Warn: Test warn.
+Error: Test error.
