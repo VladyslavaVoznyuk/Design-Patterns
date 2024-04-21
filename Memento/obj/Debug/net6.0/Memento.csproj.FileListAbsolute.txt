@@ -1,0 +1,14 @@
+C:\Users\Vlada\Design-Patterns\lab_4\lab_4\Memento\bin\Debug\net6.0\Memento.exe
+C:\Users\Vlada\Design-Patterns\lab_4\lab_4\Memento\bin\Debug\net6.0\Memento.deps.json
+C:\Users\Vlada\Design-Patterns\lab_4\lab_4\Memento\bin\Debug\net6.0\Memento.runtimeconfig.json
+C:\Users\Vlada\Design-Patterns\lab_4\lab_4\Memento\bin\Debug\net6.0\Memento.dll
+C:\Users\Vlada\Design-Patterns\lab_4\lab_4\Memento\bin\Debug\net6.0\Memento.pdb
+C:\Users\Vlada\Design-Patterns\lab_4\lab_4\Memento\obj\Debug\net6.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlada\Design-Patterns\lab_4\lab_4\Memento\obj\Debug\net6.0\Memento.AssemblyInfoInputs.cache
+C:\Users\Vlada\Design-Patterns\lab_4\lab_4\Memento\obj\Debug\net6.0\Memento.AssemblyInfo.cs
+C:\Users\Vlada\Design-Patterns\lab_4\lab_4\Memento\obj\Debug\net6.0\Memento.csproj.CoreCompileInputs.cache
+C:\Users\Vlada\Design-Patterns\lab_4\lab_4\Memento\obj\Debug\net6.0\Memento.dll
+C:\Users\Vlada\Design-Patterns\lab_4\lab_4\Memento\obj\Debug\net6.0\refint\Memento.dll
+C:\Users\Vlada\Design-Patterns\lab_4\lab_4\Memento\obj\Debug\net6.0\Memento.pdb
+C:\Users\Vlada\Design-Patterns\lab_4\lab_4\Memento\obj\Debug\net6.0\Memento.genruntimeconfig.cache
+C:\Users\Vlada\Design-Patterns\lab_4\lab_4\Memento\obj\Debug\net6.0\ref\Memento.dll

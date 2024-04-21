@@ -1,0 +1,14 @@
+C:\Users\Vlada\Design-Patterns\lab_4\lab_4\AirTrafficControl\bin\Debug\net6.0\AirTrafficControl.exe
+C:\Users\Vlada\Design-Patterns\lab_4\lab_4\AirTrafficControl\bin\Debug\net6.0\AirTrafficControl.deps.json
+C:\Users\Vlada\Design-Patterns\lab_4\lab_4\AirTrafficControl\bin\Debug\net6.0\AirTrafficControl.runtimeconfig.json
+C:\Users\Vlada\Design-Patterns\lab_4\lab_4\AirTrafficControl\bin\Debug\net6.0\AirTrafficControl.dll
+C:\Users\Vlada\Design-Patterns\lab_4\lab_4\AirTrafficControl\bin\Debug\net6.0\AirTrafficControl.pdb
+C:\Users\Vlada\Design-Patterns\lab_4\lab_4\AirTrafficControl\obj\Debug\net6.0\AirTrafficControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlada\Design-Patterns\lab_4\lab_4\AirTrafficControl\obj\Debug\net6.0\AirTrafficControl.AssemblyInfoInputs.cache
+C:\Users\Vlada\Design-Patterns\lab_4\lab_4\AirTrafficControl\obj\Debug\net6.0\AirTrafficControl.AssemblyInfo.cs
+C:\Users\Vlada\Design-Patterns\lab_4\lab_4\AirTrafficControl\obj\Debug\net6.0\AirTrafficControl.csproj.CoreCompileInputs.cache
+C:\Users\Vlada\Design-Patterns\lab_4\lab_4\AirTrafficControl\obj\Debug\net6.0\AirTrafficControl.dll
+C:\Users\Vlada\Design-Patterns\lab_4\lab_4\AirTrafficControl\obj\Debug\net6.0\refint\AirTrafficControl.dll
+C:\Users\Vlada\Design-Patterns\lab_4\lab_4\AirTrafficControl\obj\Debug\net6.0\AirTrafficControl.pdb
+C:\Users\Vlada\Design-Patterns\lab_4\lab_4\AirTrafficControl\obj\Debug\net6.0\AirTrafficControl.genruntimeconfig.cache
+C:\Users\Vlada\Design-Patterns\lab_4\lab_4\AirTrafficControl\obj\Debug\net6.0\ref\AirTrafficControl.dll
