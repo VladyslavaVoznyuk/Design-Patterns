@@ -1,26 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-public abstract class LightNode
+﻿public abstract class LightNode
 {
     public abstract string OuterHtml { get; }
     public abstract string InnerHtml { get; }
 
-    public virtual void OnCreated()
-    {
-        Console.WriteLine("Element created.");
-    }
-
-    public virtual void OnInserted()
-    {
-        Console.WriteLine("Element inserted.");
-    }
-
-    public virtual void OnRemoved()
-    {
-        Console.WriteLine("Element removed.");
-    }
+    public abstract void Accept(IVisitor visitor);
 }
 
 public class LightElementNode : LightNode
@@ -76,6 +59,15 @@ public class LightElementNode : LightNode
             return sb.ToString();
         }
     }
+
+    public override void Accept(IVisitor visitor)
+    {
+        visitor.VisitElementNode(this);
+        foreach (var child in Children)
+        {
+            child.Accept(visitor);
+        }
+    }
 }
 
 public class LightTextNode : LightNode
@@ -89,6 +81,30 @@ public class LightTextNode : LightNode
 
     public override string OuterHtml => Text;
     public override string InnerHtml => Text;
+
+    public override void Accept(IVisitor visitor)
+    {
+        visitor.VisitTextNode(this);
+    }
+}
+
+public interface IVisitor
+{
+    void VisitElementNode(LightElementNode elementNode);
+    void VisitTextNode(LightTextNode textNode);
+}
+
+public class DepthFirstIterator : IVisitor
+{
+    public void VisitElementNode(LightElementNode elementNode)
+    {
+        Console.WriteLine($"Visiting element: {elementNode.TagName}");
+    }
+
+    public void VisitTextNode(LightTextNode textNode)
+    {
+        Console.WriteLine($"Visiting text: {textNode.Text}");
+    }
 }
 
 class Program
@@ -100,13 +116,11 @@ class Program
         var p = new LightElementNode("p", isBlock: true, isSelfClosing: false, children: new List<LightNode>(), classes: null);
         var textNode = new LightTextNode("Hello, Vladyslava!");
 
-        div.OnCreated(); 
         div.Children.Add(h1);
         div.Children.Add(p);
-        div.OnInserted(); 
         h1.Children.Add(new LightTextNode("My Title"));
         p.Children.Add(textNode);
-
-        Console.WriteLine(div.OuterHtml);
+        var iterator = new DepthFirstIterator();
+        div.Accept(iterator);
     }
 }
