@@ -6,6 +6,21 @@ public abstract class LightNode
 {
     public abstract string OuterHtml { get; }
     public abstract string InnerHtml { get; }
+
+    public virtual void OnCreated()
+    {
+        Console.WriteLine("Element created.");
+    }
+
+    public virtual void OnInserted()
+    {
+        Console.WriteLine("Element inserted.");
+    }
+
+    public virtual void OnRemoved()
+    {
+        Console.WriteLine("Element removed.");
+    }
 }
 
 public class LightElementNode : LightNode
@@ -80,18 +95,18 @@ class Program
 {
     static void Main(string[] args)
     {
-        
         var div = new LightElementNode("div", isBlock: true, isSelfClosing: false, children: new List<LightNode>(), classes: new List<string>() { "container" });
         var h1 = new LightElementNode("h1", isBlock: true, isSelfClosing: false, children: new List<LightNode>(), classes: null);
         var p = new LightElementNode("p", isBlock: true, isSelfClosing: false, children: new List<LightNode>(), classes: null);
         var textNode = new LightTextNode("Hello, Vladyslava!");
 
+        div.OnCreated(); 
         div.Children.Add(h1);
         div.Children.Add(p);
+        div.OnInserted(); 
         h1.Children.Add(new LightTextNode("My Title"));
         p.Children.Add(textNode);
 
         Console.WriteLine(div.OuterHtml);
     }
 }
-
